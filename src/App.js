@@ -15,6 +15,7 @@ function App() {
         
         
       </header>
+      <footer>The Undercover Project - 2024</footer>
     </div>
   );
 }
